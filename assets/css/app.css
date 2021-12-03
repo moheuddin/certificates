@@ -1,0 +1,11 @@
+.text-danger {
+    color: red;
+}
+
+aside.aside {
+    overflow-y: auto;
+}
+
+.invalid-feedback {
+    color: red;
+}
