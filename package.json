@@ -34,7 +34,7 @@
         "nuxt": "^2.2.0",
         "nuxt-buefy": "^0.4.13",
         "v-qrcode": "^1.0.3",
-        "vee-validate": "^2.2.15",
+        "vee-validate": "^3.4.14",
         "vform": "^1.0.1",
         "vue": "^2.6.14",
         "vue-html-to-paper": "^1.4.4",
