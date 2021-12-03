@@ -1,4 +1,4 @@
-# nuxtjs-admin-panel
+# BBA Certificate Management System
 
 ## Build Setup
 
